@@ -1,1 +1,1 @@
-# hse-homework-DeepLearning
+# Homework from Deep Learning course
