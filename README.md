@@ -1,1 +1,1 @@
-# Homework from Deep Learning course
+# Deep Learning Homework — HSE SPb semester 6
